@@ -28,7 +28,7 @@ const Nav = () => {
           height={30}
           className='object-contain'
         /> 
-        <p className='logo_text'>Compaign</p>
+        <p className='logo_text'>CampaignGenie</p>
       </Link>
 
       {/* Desktop Navigation */}
@@ -92,7 +92,7 @@ const Nav = () => {
                   className='dropdown_link'
                   onClick={() => setToggleDropdown(false)}
                 >
-                  My Profile
+                My Campaigns
                 </Link>
                 <Link
                   href='/create-prompt'

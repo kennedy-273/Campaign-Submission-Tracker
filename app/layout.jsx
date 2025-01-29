@@ -4,8 +4,8 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Compaign",
-  description: "Discover & Share AI Prompts",
+  title: "CampaignGenie",
+  description: "Discover & Share your Compaigns",
 };
 
 const RootLayout = ({ children }) => (

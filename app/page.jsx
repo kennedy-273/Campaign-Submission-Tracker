@@ -8,8 +8,9 @@ const Home = () => (
       <span className='orange_gradient text-center'> AI-Powered Prompts</span>
     </h1>
     <p className='desc text-center'>
-      Promptopia is an open-source AI prompting tool for modern world to
-      discover, create and share creative prompts
+    CampaignGenie is an open-source AI-driven tool crafted to help you discover, create, and share powerful prompts designed for planning and launching successful campaigns in the modern world.
+
+
     </p>
 
     <Feed />
