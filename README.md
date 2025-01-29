@@ -159,5 +159,16 @@ NEXTAUTH_SECRET=your_nextauth_secret
 ```bash
 npm run dev
 ```
+![Screenshot from 2025-01-29 10-53-46](https://github.com/user-attachments/assets/d1eee3e3-da03-4ed2-80e3-ad797519b0b6)
+
+
+https://github.com/user-attachments/assets/3725a32b-b30f-495d-8e09-5ecfdd0465d2
+
+![Screenshot from 2025-01-29 10-54-35](https://github.com/user-attachments/assets/26d36420-5747-4c19-a392-4f97496a6ab5)
+
+
+![Screenshot from 2025-01-29 10-54-44](https://github.com/user-attachments/assets/96b230f3-5ee6-43eb-aa3c-0775f503fe1e)
+
+
 
 
